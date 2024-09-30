@@ -5,4 +5,4 @@
 
 
 ## GOOGLE COLAB NOTEBOOK (T4 GPU) 
-![link](https://github.com/prerona-2002/IIT_OCR/blob/main/IITOCR.ipynb)
+![link  to the code](https://github.com/prerona-2002/IIT_OCR/blob/main/IITOCR.ipynb)
